@@ -1,0 +1,11 @@
+*.o
+.DS_Store
+doc/integrity.pdf
+doc/overview.pdf
+doc/usage.pdf
+*.o
+*.so
+*.a
+test
+main.c
+tests.h
